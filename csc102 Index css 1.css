@@ -1,0 +1,46 @@
+h1
+{
+    color: firebrick;
+    text-align: center;
+}
+nav
+{
+    background-color: goldenrod;
+    display: block;
+    border-color: blue;
+}
+body{
+    background-color: goldenrod;
+    background-image: linear-gradient(goldenrod, red);
+    /*background-image: radial-gradient(goldenrod, blue);
+    background-repeat: repeat-y;
+    background-image: url("csc102 /Crap /Game /Img");*/
+}
+.buttonsDM
+{
+    background-color:#ff5e00;
+    border-color: #f5a2a2;
+    width: 100px;
+    height: 50px;
+    border-radius: 65px;
+    border-style: solid;
+    cursor: grabbing;
+}
+footer
+{
+
+    background-color:#ff5e00;
+    border-color: #f5a2a2;
+    border-style: solid;
+    cursor: progress;
+}
+button{
+
+    background-color: #ff5e00;
+    border-color: #f5a2a2;
+    width: 100px;
+    height: 50px;
+    border-radius: 65px;
+    border-style: solid;
+    cursor: grab;
+}
